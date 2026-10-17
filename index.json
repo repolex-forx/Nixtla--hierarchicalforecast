@@ -1,0 +1,11 @@
+{
+  "org": "Nixtla",
+  "repo": "hierarchicalforecast",
+  "versions": [
+    {
+      "commit": "56cc4fac0c5c7b4ff33884d4a8a929f3cd8f03ec",
+      "tag": "",
+      "parsed_at": "2026-10-17T18:38:19.808726+00:00"
+    }
+  ]
+}
