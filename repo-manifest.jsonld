@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Nixtla/hierarchicalforecast/commit/56cc4fac0c5c7b4ff33884d4a8a929f3cd8f03ec",
       "git:hexsha": "56cc4fac0c5c7b4ff33884d4a8a929f3cd8f03ec",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T18:38:19.808101+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Nixtla/hierarchicalforecast/commit/54e5e551e9035fe37cd96bcbe4de1a9e48b0af76",
